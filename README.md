@@ -1,1 +1,1 @@
-# cmpsproject24.guithub..io
+'"Milestone 1 for the project"
